@@ -25,4 +25,17 @@ const multiplesOfThreeOrFive = () => {
         }
     } 
 }
-multiplesOfThreeOrFive();
+//multiplesOfThreeOrFive();
+
+// Task #4 (Jordi)
+
+const untilNum = (value) => {
+    for (let i = 0; i <= value; i++){
+        console.log(i)
+    } 
+}
+
+untilNum(100);
+
+//Task #5 (Caleb)
+
