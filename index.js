@@ -83,5 +83,12 @@ const betweenTwentyAndFourty = (int) => {
        return false
     }
 }
-console.log(betweenTwentyAndFourty(41))
+//console.log(betweenTwentyAndFourty(41))
+
 //Task #10 (Jordi)
+const largest = (num1, num2, num3) => {
+    return Math.max(num1, num2, num3);
+}
+
+//console.log(largest(100,50,20));
+
