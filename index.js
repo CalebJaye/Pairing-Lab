@@ -56,3 +56,11 @@ const add = (num1, num2) => {
 
 //console.log(add(5, 10));
 
+const isNegative = (num) => {
+    if(num > 0){
+        return false
+    } else if (num < 0){
+        return true
+    }
+}
+//console.log(isNegative(0))
