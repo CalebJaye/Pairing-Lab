@@ -43,3 +43,16 @@ const multiply = (num1, num2) => {
 return num1 * num2
 }
 //console.log(multiply(10, 2))
+
+//Task #6 (Jordi)
+
+const add = (num1, num2) => {
+    if (num1 !== num2) {
+        return num1 + num2
+    } else if (num1 === num2) {
+        return (num1 + num2) * 3
+    }
+}
+
+//console.log(add(5, 10));
+
