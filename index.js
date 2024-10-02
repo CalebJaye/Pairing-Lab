@@ -56,6 +56,8 @@ const add = (num1, num2) => {
 
 //console.log(add(5, 10));
 
+// Task #7 (Caleb)
+
 const isNegative = (num) => {
     if(num > 0){
         return false
@@ -64,3 +66,15 @@ const isNegative = (num) => {
     }
 }
 //console.log(isNegative(0))
+
+//Task #8 (Jordi)
+
+const triangleArea = (base, height) => {
+    return base * height / 2
+}
+
+//console.log(triangleArea(6,8));
+
+//Task #9 (Caleb)
+
+//Task #10 (Jordi)
